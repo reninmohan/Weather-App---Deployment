@@ -89,4 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons used in the application sourced from [Flaticon](https://www.flaticon.com/)
 ```
 
-Replace placeholders such as `your-username`, `your_weather_api_key_here`, and `weather-app-screenshot.png` with actual values specific to your project. Additionally, you may want to provide additional sections or customize the README further based on your project's requirements and features.
+
